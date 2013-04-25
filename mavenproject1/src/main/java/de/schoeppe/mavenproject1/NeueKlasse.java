@@ -10,4 +10,6 @@ package de.schoeppe.mavenproject1;
  */
 public class NeueKlasse {
     
+    
+    //hallo zusatz
 }
